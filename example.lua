@@ -1,4 +1,4 @@
-local lib = loadstring(game:HttpGet('https://b27xip.github.io/WallyUIv3/lib.lua', true))(); -- the ui lib
+local lib = loadstring(game:HttpGet('https://b27xip.github.io/WallyUIv3/luascript/lib.lua', true))(); -- the ui lib
 
 local w = lib:CreateWindow("Example Window") -- Creates the window
 
